@@ -1,4 +1,4 @@
-## Depricated: 
+# Depricated: 
 
 This project was based on OpenShift v2, a new version is available 
 for [OpenShift Container Platform](https://github.com/redhatdemocentral/rhcs-bpms-install-demo).
